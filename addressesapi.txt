@@ -10,5 +10,5 @@ bestcf.030101.xyz#Mingyu
 cf.tencentapp.cn#ktff
 cf-cname.xingpingcn.top#xingpingcn
 104.194.81.150:443#US
-154.26.187.125#4434#US
+154.26.187.125:4434#US
 129.146.46.164:443#US
