@@ -22,4 +22,3 @@ cf-cname.xingpingcn.top#xingpingcn
 67.230.180.33:11000#US
 8.209.253.101:34237#JP
 8.219.134.138#JP
-38.47.105.157#JP
