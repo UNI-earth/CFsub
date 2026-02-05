@@ -13,7 +13,6 @@ cf.tencentapp.cn#ktff
 cf-cname.xingpingcn.top#xingpingcn
 154.21.83.181#US
 154.17.228.122#US
-104.194.81.150#US
 104.194.82.107#US
 104.194.86.60:587#US
 23.106.155.30:12257#US
